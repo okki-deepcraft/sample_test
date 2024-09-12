@@ -6,6 +6,8 @@
 個人用と仕事用のgitアカウントの使い分け慣れるようにする
 
 ### 仕事用アカウントへの切り替え
+```
 git config --local user.name <username>
 git config --local user.email <useremail>
 gh auth login
+```
