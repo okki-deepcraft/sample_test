@@ -11,3 +11,9 @@ git config --local user.name <username>
 git config --local user.email <useremail>
 gh auth login
 ```
+
+### ブランチの削除
+```
+git branch -d <branchname>
+
+```
